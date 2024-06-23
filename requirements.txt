@@ -4,3 +4,4 @@ pydub
 gtts
 pillow==9.5.0
 flask_cors
+gunicorn>=20.1.0
