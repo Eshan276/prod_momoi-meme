@@ -3,3 +3,4 @@ moviepy
 pydub
 gtts
 pillow==9.5.0
+flask_cors
