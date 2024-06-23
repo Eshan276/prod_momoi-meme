@@ -5,3 +5,5 @@ gtts
 pillow==9.5.0
 flask_cors
 gunicorn>=20.1.0
+Flask[async]>=2.0.1
+
