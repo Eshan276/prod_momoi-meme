@@ -15,7 +15,7 @@ def generate_video(name, profile_image_path, song_path, start_time):
     second_video = VideoFileClip("second.mp4")
     third_video = VideoFileClip("third.mp4")
 
-    font_path = "arial.ttf"
+    font_path = os.path.join("fonts", "arial.ttf")  # Updated font path
     font_size = 70
     font = ImageFont.truetype(font_path, font_size)
     text = name
