@@ -1,0 +1,5 @@
+Flask
+moviepy
+pydub
+gtts
+pillow==9.5.0
